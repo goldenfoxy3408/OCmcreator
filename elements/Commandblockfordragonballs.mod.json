@@ -1,0 +1,208 @@
+{
+  "_fv": 43,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:GaurdianOfEarth"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.COMMAND_BLOCK"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.NETHER_STAR"
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:OneStarDragonBall"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 1,
+            "xp": 20,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:GaurdianOfEarth"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.COMMAND_BLOCK"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.NETHER_STAR"
+            },
+            "countPrice2": 2,
+            "offer": {
+              "value": "CUSTOM:TwoStarDragonBall"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 1,
+            "xp": 20,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:GaurdianOfEarth"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.COMMAND_BLOCK"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.NETHER_STAR"
+            },
+            "countPrice2": 3,
+            "offer": {
+              "value": "CUSTOM:ThreeStarDragonBall"
+            },
+            "countOffer": 1,
+            "level": 2,
+            "maxTrades": 1,
+            "xp": 40,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:GaurdianOfEarth"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.COMMAND_BLOCK"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.NETHER_STAR"
+            },
+            "countPrice2": 4,
+            "offer": {
+              "value": "CUSTOM:FourStarDragonBall"
+            },
+            "countOffer": 1,
+            "level": 2,
+            "maxTrades": 1,
+            "xp": 40,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:GaurdianOfEarth"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.COMMAND_BLOCK"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.NETHER_STAR"
+            },
+            "countPrice2": 5,
+            "offer": {
+              "value": "CUSTOM:FiveStarDragonBall"
+            },
+            "countOffer": 1,
+            "level": 3,
+            "maxTrades": 1,
+            "xp": 60,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:GaurdianOfEarth"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.COMMAND_BLOCK"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.NETHER_STAR"
+            },
+            "countPrice2": 6,
+            "offer": {
+              "value": "CUSTOM:SixStarDragonBall"
+            },
+            "countOffer": 1,
+            "level": 3,
+            "maxTrades": 1,
+            "xp": 60,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:GaurdianOfEarth"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.COMMAND_BLOCK"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.NETHER_STAR"
+            },
+            "countPrice2": 7,
+            "offer": {
+              "value": "CUSTOM:SevenStarDragonBall"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 1,
+            "xp": 160,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:GaurdianOfEarth"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.TOTEM_OF_UNDYING"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "CUSTOM:CommandBook"
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:OPM"
+            },
+            "countOffer": 1,
+            "level": 5,
+            "maxTrades": 1,
+            "xp": 200,
+            "priceMultiplier": 0.0
+          }
+        ]
+      }
+    ]
+  }
+}

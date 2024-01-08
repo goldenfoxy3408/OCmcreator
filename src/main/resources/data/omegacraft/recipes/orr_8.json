@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MMM",
+    "MNM",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "item": "omegacraft:mixed_ore_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_leggings"
+    }
+  },
+  "result": {
+    "item": "omegacraft:mixed_orea_leggings",
+    "count": 1
+  }
+}

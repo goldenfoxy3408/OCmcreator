@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "omegacraft:diamond_stick"
+  },
+  "addition": {
+    "item": "omegacraft:command_book"
+  },
+  "result": {
+    "item": "minecraft:debug_stick"
+  }
+}

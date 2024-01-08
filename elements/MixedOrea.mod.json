@@ -1,0 +1,79 @@
+{
+  "_fv": 43,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "mixed_ore_helmet",
+    "enableBody": true,
+    "textureBody": "mixed_ore_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "mixed_ore_leggings",
+    "enableBoots": true,
+    "textureBoots": "mixed_ore_boots",
+    "onHelmetTick": {
+      "name": "Xg3"
+    },
+    "onBodyTick": {
+      "name": "Xg4"
+    },
+    "onBootsTick": {
+      "name": "Xg5"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:MinecraftplusArmorAndBaubles"
+    },
+    "armorTextureFile": "mixed_ore_",
+    "helmetName": "Mixed Ore Helmet",
+    "bodyName": "Mixed Ore Chestplate",
+    "leggingsName": "Mixed Ore Leggings",
+    "bootsName": "Mixed Ore Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 43,
+    "damageValueHelmet": 8,
+    "damageValueBody": 12,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 6,
+    "enchantability": 19,
+    "toughness": 3.6,
+    "knockbackResistance": 0.34,
+    "equipSound": {
+      "value": "item.armor.equip_diamond"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:MixedOreBlock"
+      }
+    ]
+  }
+}

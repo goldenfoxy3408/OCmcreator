@@ -1,0 +1,11 @@
+{
+  "_fv": 43,
+  "_type": "tab",
+  "definition": {
+    "name": "CMC+ | Items",
+    "icon": {
+      "value": "CUSTOM:RGBStar"
+    },
+    "showSearch": false
+  }
+}

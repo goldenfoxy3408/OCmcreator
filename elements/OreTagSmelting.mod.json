@@ -1,0 +1,22 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 5.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "TAG:forge:aquamarine_ores"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Aquamarine"
+    },
+    "name": "ore_tag_smelting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 43,
+  "_type": "tab",
+  "definition": {
+    "name": "CMC+ | Weapons & Tools",
+    "icon": {
+      "value": "CUSTOM:AdminStaff"
+    },
+    "showSearch": false
+  }
+}

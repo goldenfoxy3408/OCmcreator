@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:emerald"
+  },
+  "addition": {
+    "item": "minecraft:redstone"
+  },
+  "result": {
+    "item": "omegacraft:red_chaos_emerald"
+  }
+}

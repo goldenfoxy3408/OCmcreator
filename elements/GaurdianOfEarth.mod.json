@@ -1,0 +1,16 @@
+{
+  "_fv": 43,
+  "_type": "villagerprofession",
+  "definition": {
+    "displayName": "Kami",
+    "pointOfInterest": {
+      "value": "CUSTOM:KamisWorkshop"
+    },
+    "actionSound": {
+      "value": "entity.enderdragon.ambient"
+    },
+    "hat": "Full",
+    "professionTextureFile": "kami.png",
+    "zombifiedProfessionTextureFile": "kami.png"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "OTH",
+    "RLF",
+    "SIV"
+  ],
+  "key": {
+    "O": {
+      "item": "omegacraft:one_star_dragon_ball"
+    },
+    "T": {
+      "item": "omegacraft:two_star_dragon_ball"
+    },
+    "H": {
+      "item": "omegacraft:three_star_dragon_ball"
+    },
+    "R": {
+      "item": "omegacraft:rgb_star"
+    },
+    "L": {
+      "item": "minecraft:lava_bucket"
+    },
+    "F": {
+      "item": "omegacraft:four_star_dragon_ball"
+    },
+    "S": {
+      "item": "omegacraft:seven_star_dragon_ball"
+    },
+    "I": {
+      "item": "omegacraft:six_star_dragon_ball"
+    },
+    "V": {
+      "item": "omegacraft:five_star_dragon_ball"
+    }
+  },
+  "result": {
+    "item": "omegacraft:red_star_dragon_ball_set",
+    "count": 1
+  }
+}

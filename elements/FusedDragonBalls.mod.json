@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:OneStarDragonBall"
+      },
+      {
+        "value": "CUSTOM:TwoStarDragonBall"
+      },
+      {
+        "value": "CUSTOM:ThreeStarDragonBall"
+      },
+      {
+        "value": "CUSTOM:RGBStar"
+      },
+      {
+        "value": "Items.LAVA_BUCKET"
+      },
+      {
+        "value": "CUSTOM:FourStarDragonBall"
+      },
+      {
+        "value": "CUSTOM:SevenStarDragonBall"
+      },
+      {
+        "value": "CUSTOM:SixStarDragonBall"
+      },
+      {
+        "value": "CUSTOM:FiveStarDragonBall"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RedStarDragonBallSet"
+    },
+    "name": "fused_dragon_balls",
+    "namespace": "mod"
+  }
+}

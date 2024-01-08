@@ -1,0 +1,58 @@
+{
+  "_fv": 43,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "ARMORER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.DIAMOND"
+            },
+            "countPrice1": 20,
+            "price2": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice2": 33,
+            "offer": {
+              "value": "CUSTOM:MixedOreIngot"
+            },
+            "countOffer": 3,
+            "level": 4,
+            "maxTrades": 5,
+            "xp": 9,
+            "priceMultiplier": 0.05
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "ARMORER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "CUSTOM:MixedOreIngot"
+            },
+            "countPrice1": 2,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.NETHERITE_INGOT"
+            },
+            "countOffer": 4,
+            "level": 3,
+            "maxTrades": 8,
+            "xp": 7,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}

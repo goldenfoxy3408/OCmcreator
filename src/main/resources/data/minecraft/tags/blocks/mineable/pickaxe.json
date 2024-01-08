@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "omegacraft:pure_age_emerald_block",
+    "omegacraft:mixed_ore_block",
+    "omegacraft:aquamarine_block",
+    "omegacraft:ruby_block",
+    "omegacraft:enderite_block",
+    "omegacraft:pure_emerald_ore",
+    "omegacraft:mixed_ore",
+    "omegacraft:aquamarine_ore",
+    "omegacraft:deepslate_mixed_ore",
+    "omegacraft:deepslate_aquamarine_ore",
+    "omegacraft:ruby_ore",
+    "omegacraft:enderite_ore",
+    "omegacraft:ore_crusher",
+    "omegacraft:kamis_workshop"
+  ]
+}

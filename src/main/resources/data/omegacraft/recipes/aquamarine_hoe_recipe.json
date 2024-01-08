@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "omegacraft:mixedorehoe"
+  },
+  "addition": {
+    "item": "omegacraft:aquamarine"
+  },
+  "result": {
+    "item": "omegacraft:aquamarine_hoe"
+  }
+}

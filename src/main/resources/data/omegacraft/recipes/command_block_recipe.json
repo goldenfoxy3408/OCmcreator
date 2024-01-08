@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "NED",
+    "TMC",
+    "PSH"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "E": {
+      "item": "minecraft:elytra"
+    },
+    "D": {
+      "item": "minecraft:dragon_egg"
+    },
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "M": {
+      "item": "omegacraft:master_emerald_item"
+    },
+    "C": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "P": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "S": {
+      "item": "minecraft:sculk_catalyst"
+    },
+    "H": {
+      "item": "minecraft:heart_of_the_sea"
+    }
+  },
+  "result": {
+    "item": "minecraft:command_block",
+    "count": 32
+  }
+}

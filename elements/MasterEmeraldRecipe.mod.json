@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RedChaosEmerald"
+      },
+      {
+        "value": "CUSTOM:GreenChaosEmerald"
+      },
+      {
+        "value": "CUSTOM:YellowChaosEmerald"
+      },
+      {
+        "value": "CUSTOM:TurquoiseChaosEmerald"
+      },
+      {
+        "value": "CUSTOM:OrangeChaosEmerald"
+      },
+      {
+        "value": "CUSTOM:PurpleChaosEmerald"
+      },
+      {
+        "value": "CUSTOM:WhiteChaosEmerald"
+      },
+      {
+        "value": "CUSTOM:PinkChaosEmerald"
+      },
+      {
+        "value": "CUSTOM:BlueChaosEmerald"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MasterEmeraldItem"
+    },
+    "name": "master_emerald",
+    "namespace": "mod"
+  }
+}

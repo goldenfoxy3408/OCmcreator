@@ -1,0 +1,37 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "enderite_sword",
+    "customModelName": "Normal",
+    "name": "Enderite Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CMCPWeaponsAndTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 8,
+    "efficiency": 19.5,
+    "attackSpeed": 1.6,
+    "enchantability": 1003,
+    "damageVsEntity": 15.5,
+    "usageCount": 5668,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EnderiteIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "Xg"
+    },
+    "onItemInInventoryTick": {
+      "name": "Xiaog"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="omegacraft"
+version="1.0.0"
+displayName="Omega Craft"
+credits="Credits to Jin13583 on CurseForge for their mod: Mixed Ore, which was almost fully integrated into Omega Craft, Credits to Enderman_of_D00M on CurseForge for the textures from their mod: Engender - The Age of Minecraft, and credits to Nonamecrackers2 on CurseForge for the textures from their mod: Crackers Wither Storm Mod, which also gave me some inspiration towards the Wither Storm Remains Structure in  Omega Craft"
+displayURL="https://legacy.curseforge.com/minecraft/mc-mods/omega-craft"
+logoFile="logo.png"
+authors="Deku5482"
+description="Ever heard of the Master Emerald?"
+
+[[dependencies.omegacraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.omegacraft]]
+    modId="curios_api"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

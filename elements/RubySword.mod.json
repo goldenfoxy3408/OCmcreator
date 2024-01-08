@@ -1,0 +1,37 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_sword",
+    "customModelName": "Normal",
+    "name": "Ruby Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CMCPWeaponsAndTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 7,
+    "efficiency": 18.0,
+    "attackSpeed": 1.6,
+    "enchantability": 14,
+    "damageVsEntity": 13.0,
+    "usageCount": 5000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ruby"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "Xg"
+    },
+    "onItemInInventoryTick": {
+      "name": "Xiaog"
+    }
+  }
+}

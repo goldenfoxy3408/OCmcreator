@@ -1,0 +1,11 @@
+{
+  "_fv": 43,
+  "_type": "painting",
+  "definition": {
+    "texture": "mixed_ore_picture.png",
+    "width": 48,
+    "height": 48,
+    "title": "Mixed Orep",
+    "author": "Unknown"
+  }
+}

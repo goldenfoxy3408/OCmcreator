@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MNM",
+    "MSM"
+  ],
+  "key": {
+    "M": {
+      "item": "omegacraft:mixed_ore_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_boots"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "omegacraft:mixed_orea_boots",
+    "count": 1
+  }
+}

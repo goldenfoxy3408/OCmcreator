@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "ENE",
+    "ENE"
+  ],
+  "key": {
+    "E": {
+      "item": "omegacraft:enderite_ingot"
+    },
+    "N": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+    "item": "omegacraft:end_portal_side_frames",
+    "count": 1
+  }
+}

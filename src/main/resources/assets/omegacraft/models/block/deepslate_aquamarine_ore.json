@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "omegacraft:block/deepslate_aquamarine_ore",
+    "up": "omegacraft:block/deepslate_aquamarine_ore",
+    "north": "omegacraft:block/deepslate_aquamarine_ore",
+    "east": "omegacraft:block/deepslate_aquamarine_ore",
+    "south": "omegacraft:block/deepslate_aquamarine_ore",
+    "west": "omegacraft:block/deepslate_aquamarine_ore",
+    "particle": "omegacraft:block/deepslate_aquamarine_ore"
+  },
+  "render_type": "solid"
+}

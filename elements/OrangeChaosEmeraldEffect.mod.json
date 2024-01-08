@@ -1,0 +1,23 @@
+{
+  "_fv": 43,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Orange Chaos Powered",
+    "icon": "orange_chaos_emerald_effect.png",
+    "color": {
+      "value": -39424,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "renderStatusInInventory": false,
+    "renderStatusInHUD": false,
+    "onStarted": {
+      "name": "OrangeChaosEmeraldEffectEffectStartedapplied"
+    },
+    "onExpired": {
+      "name": "OrangeChaosEmeraldEffectEffectExpires"
+    }
+  }
+}

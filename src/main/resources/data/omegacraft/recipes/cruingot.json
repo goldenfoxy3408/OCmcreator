@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CER",
+    "ONL",
+    "IGD"
+  ],
+  "key": {
+    "C": {
+      "item": "omegacraft:coal_dust"
+    },
+    "E": {
+      "item": "omegacraft:emerald_dust"
+    },
+    "R": {
+      "item": "omegacraft:red_stone_dust"
+    },
+    "O": {
+      "item": "omegacraft:copper_dust"
+    },
+    "N": {
+      "item": "omegacraft:netherite_dust"
+    },
+    "L": {
+      "item": "omegacraft:lapis_dust"
+    },
+    "I": {
+      "item": "omegacraft:iron_dust"
+    },
+    "G": {
+      "item": "omegacraft:gold_dust"
+    },
+    "D": {
+      "item": "omegacraft:diamond_dust"
+    }
+  },
+  "result": {
+    "item": "omegacraft:mixed_ore_ingot",
+    "count": 1
+  }
+}

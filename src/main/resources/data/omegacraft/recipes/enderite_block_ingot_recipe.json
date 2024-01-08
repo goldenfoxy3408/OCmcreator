@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "E"
+  ],
+  "key": {
+    "E": {
+      "item": "omegacraft:enderite_block"
+    }
+  },
+  "result": {
+    "item": "omegacraft:enderite_ingot",
+    "count": 9
+  }
+}

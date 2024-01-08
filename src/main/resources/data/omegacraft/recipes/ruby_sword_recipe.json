@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "omegacraft:aquamarine_sword"
+  },
+  "addition": {
+    "item": "omegacraft:ruby"
+  },
+  "result": {
+    "item": "omegacraft:ruby_sword"
+  }
+}

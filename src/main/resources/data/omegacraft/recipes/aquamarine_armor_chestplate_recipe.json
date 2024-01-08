@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "omegacraft:mixed_orea_chestplate"
+  },
+  "addition": {
+    "item": "omegacraft:aquamarine"
+  },
+  "result": {
+    "item": "omegacraft:aquamarine_armor_chestplate"
+  }
+}

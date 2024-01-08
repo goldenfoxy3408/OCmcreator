@@ -1,0 +1,33 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MixedOreSword"
+      },
+      {
+        "value": "CUSTOM:MixedOreAxe"
+      },
+      {
+        "value": "CUSTOM:MixedOreShovel"
+      },
+      {
+        "value": "CUSTOM:MixedOreBow"
+      },
+      {
+        "value": "CUSTOM:MixedOrePickAxe"
+      },
+      {
+        "value": "CUSTOM:Mixedorehoe"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "toolmixedore",
+    "namespace": "forge"
+  }
+}

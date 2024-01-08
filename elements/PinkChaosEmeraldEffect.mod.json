@@ -1,0 +1,23 @@
+{
+  "_fv": 43,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Pink Chaos Powered",
+    "icon": "pink_chaos_emerald_effect.png",
+    "color": {
+      "value": -65281,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "renderStatusInInventory": false,
+    "renderStatusInHUD": false,
+    "onStarted": {
+      "name": "PinkChaosEmeraldEffectEffectStartedapplied"
+    },
+    "onExpired": {
+      "name": "PinkChaosEmeraldEffectEffectExpires"
+    }
+  }
+}

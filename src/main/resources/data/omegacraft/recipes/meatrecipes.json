@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MMM",
+    "MIM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "omegacraft:meatdust"
+    },
+    "I": {
+      "item": "omegacraft:mixed_ore_ingot"
+    }
+  },
+  "result": {
+    "item": "omegacraft:mixed_ore_meat_ingot",
+    "count": 1
+  }
+}

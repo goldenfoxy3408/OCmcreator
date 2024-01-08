@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "NPE",
+    "ICI",
+    "WRT"
+  ],
+  "key": {
+    "N": {
+      "item": "omegacraft:nether_core"
+    },
+    "P": {
+      "item": "omegacraft:pure_age_emerald"
+    },
+    "E": {
+      "item": "omegacraft:ender_core"
+    },
+    "I": {
+      "item": "omegacraft:incomplete_admin_staff"
+    },
+    "C": {
+      "item": "omegacraft:command_core"
+    },
+    "W": {
+      "item": "omegacraft:warden_core"
+    },
+    "R": {
+      "item": "omegacraft:rgb_stick"
+    },
+    "T": {
+      "item": "omegacraft:wither_storm_core"
+    }
+  },
+  "result": {
+    "item": "omegacraft:admin_staff",
+    "count": 1
+  }
+}

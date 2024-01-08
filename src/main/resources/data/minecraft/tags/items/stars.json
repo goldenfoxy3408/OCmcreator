@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "omegacraft:rgb_star",
+    "omegacraft:withered_nether_star",
+    "minecraft:nether_star"
+  ]
+}

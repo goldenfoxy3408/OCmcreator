@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "omegacraft:mixed_ore_sword",
+    "omegacraft:mixed_ore_axe",
+    "omegacraft:mixed_ore_pick_axe",
+    "omegacraft:mixed_ore_bow",
+    "omegacraft:mixedorehoe",
+    "omegacraft:mixed_ore_shovel"
+  ]
+}

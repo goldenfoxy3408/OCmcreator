@@ -1,0 +1,34 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_shovel",
+    "customModelName": "Normal",
+    "name": "Ruby Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CMCPWeaponsAndTools"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 7,
+    "efficiency": 18.0,
+    "attackSpeed": 1.4,
+    "enchantability": 14,
+    "damageVsEntity": 10.5,
+    "usageCount": 5000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ruby"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInInventoryTick": {
+      "name": "Xiaog2"
+    }
+  }
+}

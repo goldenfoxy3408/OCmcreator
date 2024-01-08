@@ -1,0 +1,7 @@
+{
+  "replace": "false",
+  "values": [
+    "minecraft:air",
+    "omegacraft:master_emerald_item"
+  ]
+}

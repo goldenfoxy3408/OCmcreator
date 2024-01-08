@@ -1,0 +1,21 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:AquamarineOre"
+      },
+      {
+        "value": "CUSTOM:DeepslateAquamarineOre"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "aquamarine_ores",
+    "namespace": "forge"
+  }
+}

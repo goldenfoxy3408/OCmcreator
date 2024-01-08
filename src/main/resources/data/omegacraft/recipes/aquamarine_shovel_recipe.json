@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "omegacraft:mixed_ore_shovel"
+  },
+  "addition": {
+    "item": "omegacraft:aquamarine"
+  },
+  "result": {
+    "item": "omegacraft:aquamarine_shovel"
+  }
+}

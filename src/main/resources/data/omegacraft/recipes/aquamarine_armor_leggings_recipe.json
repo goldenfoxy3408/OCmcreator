@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "omegacraft:mixed_orea_leggings"
+  },
+  "addition": {
+    "item": "omegacraft:aquamarine"
+  },
+  "result": {
+    "item": "omegacraft:aquamarine_armor_leggings"
+  }
+}

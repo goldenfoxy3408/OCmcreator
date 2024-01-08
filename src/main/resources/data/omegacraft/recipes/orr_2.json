@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MIM",
+    "SIS",
+    " N "
+  ],
+  "key": {
+    "M": {
+      "item": "omegacraft:mixed_ore_ingot"
+    },
+    "I": {
+      "item": "omegacraft:mixed_ore_block"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "N": {
+      "item": "minecraft:netherite_sword"
+    }
+  },
+  "result": {
+    "item": "omegacraft:mixed_ore_sword",
+    "count": 1
+  }
+}

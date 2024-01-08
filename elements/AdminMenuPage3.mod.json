@@ -1,0 +1,660 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 206,
+    "height": 181,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_admin_menu",
+          "text": {
+            "fixedValue": "Admin Menu"
+          },
+          "color": {
+            "value": -6750055,
+            "falpha": 0.0
+          },
+          "x": 182,
+          "y": 35
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_previous_page",
+          "text": "Previous Page",
+          "onClick": {
+            "name": "PreviousPage2"
+          },
+          "width": 81,
+          "height": 20,
+          "x": 115,
+          "y": 186
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pg_3",
+          "text": {
+            "fixedValue": "Pg: 3"
+          },
+          "color": {
+            "value": -16777012,
+            "falpha": 0.0
+          },
+          "x": 198,
+          "y": 193
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "name": "CommandInput",
+          "width": 120,
+          "height": 20,
+          "x": 165,
+          "y": 166
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_run_command",
+          "text": {
+            "fixedValue": "Command: /"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 113,
+          "y": 171
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_keep_inventory",
+          "text": {
+            "fixedValue": "Keep Inventory:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 114,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_gamerules",
+          "text": {
+            "fixedValue": "Gamerules"
+          },
+          "color": {
+            "value": -16738048,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 50
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_true",
+          "text": "True",
+          "onClick": {
+            "name": "KeepInventoryTrueButtonProcedure"
+          },
+          "displayCondition": {
+            "name": "KeepInventoryTrueButtonDisplayCondition"
+          },
+          "width": 31,
+          "height": 20,
+          "x": 224,
+          "y": 57
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_false",
+          "text": "False",
+          "onClick": {
+            "name": "KeepInventoryFalseButtonProcedure"
+          },
+          "displayCondition": {
+            "name": "KeepInventoryFalseButtonDisplayCondition"
+          },
+          "width": 31,
+          "height": 20,
+          "x": 193,
+          "y": 57
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_fire_spreads",
+          "text": {
+            "fixedValue": "Fire Spreads:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 117,
+          "y": 123
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_true1",
+          "text": "True",
+          "onClick": {
+            "name": "LimitedCraftingTrueProcedure"
+          },
+          "displayCondition": {
+            "name": "LimitedCraftingTrueButtonDisplayCondition"
+          },
+          "width": 31,
+          "height": 20,
+          "x": 233,
+          "y": 78
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_false1",
+          "text": "False",
+          "onClick": {
+            "name": "LimitedCraftingFalseProcedure"
+          },
+          "displayCondition": {
+            "name": "LimitedCratingFalseButtonDisplayCondition"
+          },
+          "width": 31,
+          "height": 20,
+          "x": 202,
+          "y": 78
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_immediate_respawn",
+          "text": {
+            "fixedValue": "Immediate Respawn:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 114,
+          "y": 103
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_limited_crafting",
+          "text": {
+            "fixedValue": "Limited Crafting:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 114,
+          "y": 83
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_lava_source_block_conversion",
+          "text": {
+            "fixedValue": "Lava Source Block Conversion:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 114,
+          "y": 143
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_true2",
+          "text": "True",
+          "onClick": {
+            "name": "ImmediateRespawnTrueProcedure"
+          },
+          "displayCondition": {
+            "name": "ImmediateRespawnTrueButtonDisplayCondition"
+          },
+          "width": 31,
+          "height": 20,
+          "x": 239,
+          "y": 99
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_true3",
+          "text": "True",
+          "onClick": {
+            "name": "FireSpreadsTrueProcedure"
+          },
+          "displayCondition": {
+            "name": "FireSpreadsTrueButtonDisplayCondition"
+          },
+          "width": 31,
+          "height": 20,
+          "x": 221,
+          "y": 120
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_true4",
+          "text": "True",
+          "onClick": {
+            "name": "LavaSourceConversionTrueProcedure"
+          },
+          "displayCondition": {
+            "name": "LavaSourceConversionTrueButtonDisplayCondition"
+          },
+          "width": 31,
+          "height": 20,
+          "x": 267,
+          "y": 144
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_false2",
+          "text": "False",
+          "onClick": {
+            "name": "FireSpreadsFalseProcedure"
+          },
+          "displayCondition": {
+            "name": "FireSpreadsFalseButtonDisplayCondition"
+          },
+          "width": 31,
+          "height": 20,
+          "x": 190,
+          "y": 120
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_false3",
+          "text": "False",
+          "onClick": {
+            "name": "ImmediateRespawnFalseProcedure"
+          },
+          "displayCondition": {
+            "name": "ImmediateRespawnFalseButtonDisplayCondition"
+          },
+          "width": 31,
+          "height": 20,
+          "x": 208,
+          "y": 99
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_false4",
+          "text": "False",
+          "onClick": {
+            "name": "LavaSourceConversionFalseProcedure"
+          },
+          "displayCondition": {
+            "name": "LavaSourceConversionFalseButtonDisplayCondition"
+          },
+          "width": 31,
+          "height": 20,
+          "x": 267,
+          "y": 124
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_run",
+          "text": "Run",
+          "onClick": {
+            "name": "RunCommandProcedure"
+          },
+          "displayCondition": {
+            "name": "RunCommandButtonDisplayCondition"
+          },
+          "width": 27,
+          "height": 20,
+          "x": 285,
+          "y": 166
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_currently_false",
+          "text": {
+            "fixedValue": "False"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "KeepInventoryTrueButtonDisplayCondition"
+          },
+          "x": 166,
+          "y": 73
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_currently_false1",
+          "text": {
+            "fixedValue": "False"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "FireSpreadsTrueButtonDisplayCondition"
+          },
+          "x": 164,
+          "y": 134
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_currently_false2",
+          "text": {
+            "fixedValue": "False"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "ImmediateRespawnTrueButtonDisplayCondition"
+          },
+          "x": 167,
+          "y": 112
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_currently",
+          "text": {
+            "fixedValue": "Currently:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 114,
+          "y": 73
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_currently1",
+          "text": {
+            "fixedValue": "Currently:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 113,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_currently2",
+          "text": {
+            "fixedValue": "Currently:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 114,
+          "y": 113
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_currently3",
+          "text": {
+            "fixedValue": "Currently:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 113,
+          "y": 134
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_currently4",
+          "text": {
+            "fixedValue": "Currently:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 122,
+          "y": 153
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_false",
+          "text": {
+            "fixedValue": "False"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "LavaSourceConversionTrueButtonDisplayCondition"
+          },
+          "x": 175,
+          "y": 154
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_false1",
+          "text": {
+            "fixedValue": "False"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "LimitedCraftingTrueButtonDisplayCondition"
+          },
+          "x": 166,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_true",
+          "text": {
+            "fixedValue": "True"
+          },
+          "color": {
+            "value": -16751104,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "LavaSourceConversionFalseButtonDisplayCondition"
+          },
+          "x": 174,
+          "y": 154
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_true1",
+          "text": {
+            "fixedValue": "True"
+          },
+          "color": {
+            "value": -16751104,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "LimitedCratingFalseButtonDisplayCondition"
+          },
+          "x": 166,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_true2",
+          "text": {
+            "fixedValue": "True"
+          },
+          "color": {
+            "value": -16751104,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "ImmediateRespawnFalseButtonDisplayCondition"
+          },
+          "x": 168,
+          "y": 112
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_true3",
+          "text": {
+            "fixedValue": "True"
+          },
+          "color": {
+            "value": -16751104,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "FireSpreadsFalseButtonDisplayCondition"
+          },
+          "x": 165,
+          "y": 134
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_true4",
+          "text": {
+            "fixedValue": "True"
+          },
+          "color": {
+            "value": -16751104,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "KeepInventoryFalseButtonDisplayCondition"
+          },
+          "x": 166,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cai.png",
+          "use1Xscale": false,
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cai.png",
+          "use1Xscale": false,
+          "x": -853,
+          "y": -480
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cai.png",
+          "use1Xscale": false,
+          "x": -853,
+          "y": 0
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cai.png",
+          "use1Xscale": false,
+          "x": 0,
+          "y": -480
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

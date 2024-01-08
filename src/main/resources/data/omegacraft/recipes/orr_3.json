@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MMS",
+    "MNI",
+    " T "
+  ],
+  "key": {
+    "M": {
+      "item": "omegacraft:mixed_ore_block"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "N": {
+      "item": "minecraft:netherite_axe"
+    },
+    "I": {
+      "item": "omegacraft:mixed_ore_ingot"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "omegacraft:mixed_ore_axe",
+    "count": 1
+  }
+}

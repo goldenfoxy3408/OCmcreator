@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MI",
+    "SN",
+    " T"
+  ],
+  "key": {
+    "M": {
+      "item": "omegacraft:mixed_ore_ingot"
+    },
+    "I": {
+      "item": "omegacraft:mixed_ore_block"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "N": {
+      "item": "minecraft:netherite_hoe"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "omegacraft:mixedorehoe",
+    "count": 1
+  }
+}

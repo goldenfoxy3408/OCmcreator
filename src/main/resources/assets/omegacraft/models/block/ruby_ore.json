@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "omegacraft:block/deepslate_ruby_ore",
+    "up": "omegacraft:block/deepslate_ruby_ore",
+    "north": "omegacraft:block/deepslate_ruby_ore",
+    "east": "omegacraft:block/deepslate_ruby_ore",
+    "south": "omegacraft:block/deepslate_ruby_ore",
+    "west": "omegacraft:block/deepslate_ruby_ore",
+    "particle": "omegacraft:block/deepslate_ruby_ore"
+  },
+  "render_type": "solid"
+}

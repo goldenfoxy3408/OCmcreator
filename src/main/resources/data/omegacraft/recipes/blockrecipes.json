@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MMM",
+    "MMM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "omegacraft:mixed_ore_ingot"
+    }
+  },
+  "result": {
+    "item": "omegacraft:mixed_ore_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "omegacraft:mixed_ore_block"
+    }
+  ],
+  "result": {
+    "item": "omegacraft:mixed_ore_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MIM",
+    "SNS",
+    " T "
+  ],
+  "key": {
+    "M": {
+      "item": "omegacraft:mixed_ore_ingot"
+    },
+    "I": {
+      "item": "omegacraft:mixed_ore_block"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "N": {
+      "item": "minecraft:netherite_shovel"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "omegacraft:mixed_ore_shovel",
+    "count": 1
+  }
+}

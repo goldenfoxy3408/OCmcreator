@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:emerald"
+  },
+  "addition": {
+    "item": "omegacraft:aquamarine"
+  },
+  "result": {
+    "item": "omegacraft:green_chaos_emerald"
+  }
+}

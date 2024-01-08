@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "omegacraft:red_chaos_emerald"
+    },
+    {
+      "item": "omegacraft:green_chaos_emerald"
+    },
+    {
+      "item": "omegacraft:yellow_chaos_emerald"
+    },
+    {
+      "item": "omegacraft:turquoise_chaos_emerald"
+    },
+    {
+      "item": "omegacraft:orange_chaos_emerald"
+    },
+    {
+      "item": "omegacraft:purple_chaos_emerald"
+    },
+    {
+      "item": "omegacraft:white_chaos_emerald"
+    },
+    {
+      "item": "omegacraft:pink_chaos_emerald"
+    },
+    {
+      "item": "omegacraft:blue_chaos_emerald"
+    }
+  ],
+  "result": {
+    "item": "omegacraft:master_emerald_item",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "omegacraft:ruby_sword"
+  },
+  "addition": {
+    "item": "omegacraft:enderite_ingot"
+  },
+  "result": {
+    "item": "omegacraft:oof_sword"
+  }
+}

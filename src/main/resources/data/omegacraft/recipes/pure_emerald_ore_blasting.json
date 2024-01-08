@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "experience": 5,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "omegacraft:pure_emerald_ore"
+  },
+  "result": "omegacraft:pure_age_emerald"
+}

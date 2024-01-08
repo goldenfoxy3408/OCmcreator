@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "omegacraft:block/infected_chest_bottom",
+    "up": "omegacraft:block/infected_chest_side",
+    "north": "omegacraft:block/infected_chest_front",
+    "east": "omegacraft:block/infected_chest_side",
+    "south": "omegacraft:block/infected_chest_side",
+    "west": "omegacraft:block/infected_chest_side",
+    "particle": "omegacraft:block/infected_chest_front"
+  },
+  "render_type": "solid"
+}

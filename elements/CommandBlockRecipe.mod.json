@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 32,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "REDSTONE",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "Items.ELYTRA"
+      },
+      {
+        "value": "Blocks.DRAGON_EGG"
+      },
+      {
+        "value": "Items.TOTEM_OF_UNDYING"
+      },
+      {
+        "value": "CUSTOM:MasterEmeraldItem"
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#1"
+      },
+      {
+        "value": "Items.PRISMARINE_CRYSTALS"
+      },
+      {
+        "value": "Blocks.SCULK_CATALYST"
+      },
+      {
+        "value": "Items.HEART_OF_THE_SEA"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.COMMAND_BLOCK"
+    },
+    "name": "command_block_recipe",
+    "namespace": "mod"
+  }
+}

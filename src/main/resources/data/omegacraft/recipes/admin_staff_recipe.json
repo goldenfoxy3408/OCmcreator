@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RGG",
+    "GOG",
+    "BGR"
+  ],
+  "key": {
+    "R": {
+      "item": "omegacraft:rgb_star"
+    },
+    "G": {
+      "item": "omegacraft:rgb_gem"
+    },
+    "O": {
+      "item": "omegacraft:oof_sword"
+    },
+    "B": {
+      "item": "omegacraft:rgb_stick"
+    }
+  },
+  "result": {
+    "item": "omegacraft:incomplete_admin_staff",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "omegacraft:aquamarine_block"
+    }
+  ],
+  "result": {
+    "item": "omegacraft:aquamarine",
+    "count": 9
+  }
+}

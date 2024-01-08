@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "omegacraft:block/massive_chest_block"
+    },
+    "facing=east": {
+      "model": "omegacraft:block/massive_chest_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "omegacraft:block/massive_chest_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "omegacraft:block/massive_chest_block",
+      "y": 270
+    }
+  }
+}

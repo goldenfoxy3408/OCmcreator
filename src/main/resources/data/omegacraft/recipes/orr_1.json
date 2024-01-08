@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MMM",
+    "SNS",
+    " T "
+  ],
+  "key": {
+    "M": {
+      "item": "omegacraft:mixed_ore_block"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "N": {
+      "item": "minecraft:netherite_pickaxe"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "omegacraft:mixed_ore_pick_axe",
+    "count": 1
+  }
+}

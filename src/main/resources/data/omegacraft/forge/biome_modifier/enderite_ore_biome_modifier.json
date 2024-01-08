@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "small_end_islands",
+    "end_midlands",
+    "the_end",
+    "end_highlands",
+    "end_barrens"
+  ],
+  "features": "omegacraft:enderite_ore",
+  "step": "underground_ores"
+}

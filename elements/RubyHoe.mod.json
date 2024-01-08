@@ -1,0 +1,34 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_hoe",
+    "customModelName": "Normal",
+    "name": "Ruby Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CMCPWeaponsAndTools"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 7,
+    "efficiency": 18.0,
+    "attackSpeed": 4.0,
+    "enchantability": 14,
+    "damageVsEntity": 1.0,
+    "usageCount": 5000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ruby"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInInventoryTick": {
+      "name": "Xiaog2"
+    }
+  }
+}

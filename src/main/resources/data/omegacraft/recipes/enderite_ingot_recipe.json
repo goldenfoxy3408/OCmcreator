@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "REA",
+    "NDN"
+  ],
+  "key": {
+    "E": {
+      "item": "omegacraft:enderite_scrap"
+    },
+    "R": {
+      "item": "omegacraft:ruby"
+    },
+    "A": {
+      "item": "omegacraft:aquamarine"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "D": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  "result": {
+    "item": "omegacraft:enderite_ingot",
+    "count": 1
+  }
+}

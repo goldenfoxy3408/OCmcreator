@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MMM",
+    "MNM",
+    "S S"
+  ],
+  "key": {
+    "M": {
+      "item": "omegacraft:mixed_ore_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_helmet"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "omegacraft:mixed_orea_helmet",
+    "count": 1
+  }
+}

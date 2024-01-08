@@ -1,0 +1,307 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 206,
+    "height": 181,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_previous_page",
+          "text": "Previous Page",
+          "onClick": {
+            "name": "PreviousPage"
+          },
+          "width": 93,
+          "height": 20,
+          "x": 115,
+          "y": 186
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_admin_menu",
+          "text": {
+            "fixedValue": "Admin Menu"
+          },
+          "color": {
+            "value": -6750055,
+            "falpha": 0.0
+          },
+          "x": 184,
+          "y": 35
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_kill_bosses",
+          "text": "Kill Bosses",
+          "onClick": {
+            "name": "KillBossesProcedure"
+          },
+          "width": 82,
+          "height": 20,
+          "x": 223,
+          "y": 57
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_kill_players",
+          "text": "Kill Players",
+          "onClick": {
+            "name": "KillPlayersProcedure"
+          },
+          "width": 87,
+          "height": 20,
+          "x": 121,
+          "y": 57
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_kill_all",
+          "text": "Kill All",
+          "onClick": {
+            "name": "KillAllProcedure"
+          },
+          "width": 66,
+          "height": 20,
+          "x": 228,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_kill_entities",
+          "text": "Kill Entities",
+          "onClick": {
+            "name": "KillEntitiesProcedure"
+          },
+          "width": 93,
+          "height": 20,
+          "x": 124,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_tp_items_to_player",
+          "text": "TP Items to Self",
+          "onClick": {
+            "name": "TpItemsSelf"
+          },
+          "width": 118,
+          "height": 20,
+          "x": 116,
+          "y": 110
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "name": "TpToX",
+          "width": 25,
+          "height": 20,
+          "x": 140,
+          "y": 153
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_x",
+          "text": {
+            "fixedValue": "X:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 130,
+          "y": 158
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_tp_coordinates",
+          "text": {
+            "fixedValue": "Coordinates"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 167,
+          "y": 142
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_y",
+          "text": {
+            "fixedValue": "Y:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 171,
+          "y": 158
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "name": "TpToY",
+          "width": 25,
+          "height": 20,
+          "x": 181,
+          "y": 153
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_z",
+          "text": {
+            "fixedValue": "Z:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 212,
+          "y": 158
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "name": "TpToZ",
+          "width": 25,
+          "height": 20,
+          "x": 222,
+          "y": 153
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_teleport",
+          "text": "Teleport",
+          "onClick": {
+            "name": "TpCoords"
+          },
+          "width": 57,
+          "height": 20,
+          "x": 251,
+          "y": 153
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_page",
+          "text": {
+            "fixedValue": "Pg: 2"
+          },
+          "color": {
+            "value": -16777012,
+            "falpha": 0.0
+          },
+          "x": 210,
+          "y": 191
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_next_page",
+          "text": "Next Page",
+          "onClick": {
+            "name": "NextPage2"
+          },
+          "width": 72,
+          "height": 20,
+          "x": 239,
+          "y": 186
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_kill_self",
+          "text": "Kill Self",
+          "onClick": {
+            "name": "KillSelfProcedure"
+          },
+          "width": 72,
+          "height": 20,
+          "x": 237,
+          "y": 110
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cai.png",
+          "use1Xscale": false,
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cai.png",
+          "use1Xscale": false,
+          "x": -853,
+          "y": -480
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cai.png",
+          "use1Xscale": false,
+          "x": -853,
+          "y": 0
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cai.png",
+          "use1Xscale": false,
+          "x": 0,
+          "y": -480
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

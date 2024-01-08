@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " PM",
+    "SBM",
+    " PM"
+  ],
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "M": {
+      "item": "omegacraft:mixed_ore_block"
+    },
+    "S": {
+      "tag": "forge:stone"
+    },
+    "B": {
+      "item": "minecraft:bow"
+    }
+  },
+  "result": {
+    "item": "omegacraft:mixed_ore_bow",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "omegacraft:block/sculk_stone_emerald_ore",
+    "up": "omegacraft:block/sculk_stone_emerald_ore",
+    "north": "omegacraft:block/sculk_stone_emerald_ore",
+    "east": "omegacraft:block/sculk_stone_emerald_ore",
+    "south": "omegacraft:block/sculk_stone_emerald_ore",
+    "west": "omegacraft:block/sculk_stone_emerald_ore",
+    "particle": "omegacraft:block/sculk_stone_emerald_ore"
+  },
+  "render_type": "solid"
+}

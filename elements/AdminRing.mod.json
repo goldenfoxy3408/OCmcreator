@@ -1,0 +1,55 @@
+{
+  "_fv": 43,
+  "_type": "curiosbauble",
+  "definition": {
+    "renderType": 0,
+    "texture": "commandcorenew",
+    "customModelName": "Normal",
+    "name": "Admin Charm",
+    "rarity": "RARE",
+    "slotType": "CHARM",
+    "baubleModel": "Default",
+    "baubleModelTexture": "cmdcore.png",
+    "creativeTab": {
+      "value": "CUSTOM:MinecraftplusArmorAndBaubles"
+    },
+    "stackSize": 1,
+    "enchantability": 128000,
+    "useDuration": 0,
+    "toolType": 128000.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": true,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "addSlot": true,
+    "damageVsEntity": 0.0,
+    "specialInfo": [],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "slotAmount": 2,
+    "onUnequip": {
+      "name": "AdminRingBaubleIsUnequipped"
+    },
+    "isFood": false,
+    "friendlyPigs": true,
+    "enderMask": true,
+    "rotateModel": true,
+    "translateModel": true,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "hasModel": false,
+    "animation": "none"
+  }
+}

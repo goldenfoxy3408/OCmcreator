@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PureAgeEmerald"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PureAgeEmerald"
+      },
+      {
+        "value": "CUSTOM:DrainedChaosEmerald"
+      },
+      {
+        "value": "CUSTOM:PureAgeEmerald"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PureAgeEmerald"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EmptyCore"
+    },
+    "name": "empty_core_recipe",
+    "namespace": "mod"
+  }
+}

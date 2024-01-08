@@ -1,0 +1,63 @@
+{
+  "_fv": 43,
+  "_type": "curiosbauble",
+  "definition": {
+    "renderType": 0,
+    "texture": "master_emerald_final",
+    "customModelName": "Normal",
+    "name": "The Master Emerald",
+    "rarity": "RARE",
+    "slotType": "BODY",
+    "baubleModel": "Default",
+    "baubleModelTexture": "",
+    "creativeTab": {
+      "value": "CUSTOM:MinecraftplusArmorAndBaubles"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": true,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "addSlot": true,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Many years ago",
+      "a fearsome group of warriors known as the echidnas",
+      "forged the 9 Chaos Emeralds into the most unstoppable",
+      "weapon ever created: The Master Emerald"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "slotAmount": 2,
+    "onEquip": {
+      "name": "MasterEmeraldItemBaubleIsEquipped"
+    },
+    "onUnequip": {
+      "name": "MasterEmeraldItemBaubleIsUnequipped"
+    },
+    "isFood": false,
+    "friendlyPigs": false,
+    "enderMask": false,
+    "rotateModel": false,
+    "translateModel": false,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "hasModel": false,
+    "animation": "none"
+  }
+}

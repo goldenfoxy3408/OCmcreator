@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "omegacraft:aquamarine_block",
+    "omegacraft:mixed_ore_block",
+    "omegacraft:enderite_block",
+    "omegacraft:ruby_block"
+  ]
+}

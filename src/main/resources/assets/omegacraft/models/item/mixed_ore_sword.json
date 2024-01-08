@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "omegacraft:item/mixed_ore_sword"
+  }
+}

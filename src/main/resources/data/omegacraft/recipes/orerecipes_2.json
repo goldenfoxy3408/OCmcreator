@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CEL",
+    "OSR",
+    "IGD"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:coal_ore"
+    },
+    "E": {
+      "item": "minecraft:emerald_ore"
+    },
+    "L": {
+      "item": "minecraft:lapis_ore"
+    },
+    "O": {
+      "item": "minecraft:copper_ore"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "R": {
+      "item": "minecraft:redstone_ore"
+    },
+    "I": {
+      "item": "minecraft:iron_ore"
+    },
+    "G": {
+      "item": "minecraft:gold_ore"
+    },
+    "D": {
+      "item": "minecraft:diamond_ore"
+    }
+  },
+  "result": {
+    "item": "omegacraft:mixed_ore",
+    "count": 1
+  }
+}

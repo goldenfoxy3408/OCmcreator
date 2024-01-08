@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LMR",
+    "GEM",
+    "GGL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "M": {
+      "item": "minecraft:map"
+    },
+    "R": {
+      "item": "omegacraft:rgb_star"
+    },
+    "G": {
+      "item": "omegacraft:rgb_gem"
+    },
+    "E": {
+      "item": "omegacraft:red_star_dragon_ball_set"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book",
+    "count": 1
+  }
+}

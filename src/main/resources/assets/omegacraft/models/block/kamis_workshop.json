@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "omegacraft:block/cracked_enderite_ore_top",
+    "up": "omegacraft:block/enderite_respawn_anchor_top",
+    "north": "omegacraft:block/enderite_respawn_anchor_side4",
+    "east": "omegacraft:block/enderite_respawn_anchor_side4",
+    "south": "omegacraft:block/enderite_respawn_anchor_side4",
+    "west": "omegacraft:block/enderite_respawn_anchor_side4",
+    "particle": "omegacraft:block/enderite_respawn_anchor_side4"
+  },
+  "render_type": "solid"
+}

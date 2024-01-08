@@ -1,0 +1,27 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MixedOrea.helmet"
+      },
+      {
+        "value": "CUSTOM:MixedOrea.body"
+      },
+      {
+        "value": "CUSTOM:MixedOrea.legs"
+      },
+      {
+        "value": "CUSTOM:MixedOrea.boots"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "armormixedore",
+    "namespace": "forge"
+  }
+}

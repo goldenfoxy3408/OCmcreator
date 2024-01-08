@@ -1,0 +1,56 @@
+{
+  "_fv": 43,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "toppng.com-one-punch-man-by-lily-aldina-one-punch-man-fist-525x521",
+    "customModelName": "Normal",
+    "name": "One Punch",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "CUSTOM:CMCPWeaponsAndTools"
+    },
+    "stackSize": 1,
+    "enchantability": 128000,
+    "useDuration": 0,
+    "toolType": 128000.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": true,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 128000.0,
+    "specialInfo": [
+      "Killer Move: Serious Series... Serious Punch"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "OPMRightclicked"
+    },
+    "onRightClickedOnBlock": {
+      "name": "OPMRightclickedOnBlock"
+    },
+    "onEntityHitWith": {
+      "name": "OPMLivingEntityIsHitWithItem"
+    },
+    "onFinishUsingItem": {
+      "name": "OPMPlayerFinishesUsingItem"
+    },
+    "isFood": false,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "none"
+  }
+}

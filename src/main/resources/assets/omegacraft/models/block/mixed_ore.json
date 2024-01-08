@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "omegacraft:block/mixed_ore",
+    "up": "omegacraft:block/mixed_ore",
+    "north": "omegacraft:block/mixed_ore",
+    "east": "omegacraft:block/mixed_ore",
+    "south": "omegacraft:block/mixed_ore",
+    "west": "omegacraft:block/mixed_ore",
+    "particle": "omegacraft:block/mixed_ore"
+  },
+  "render_type": "solid"
+}

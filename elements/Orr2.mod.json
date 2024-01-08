@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MixedOreIngot"
+      },
+      {
+        "value": "CUSTOM:MixedOreBlock"
+      },
+      {
+        "value": "CUSTOM:MixedOreIngot"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      },
+      {
+        "value": "CUSTOM:MixedOreBlock"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.NETHERITE_SWORD"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MixedOreSword"
+    },
+    "name": "orr_2",
+    "namespace": "mod"
+  }
+}

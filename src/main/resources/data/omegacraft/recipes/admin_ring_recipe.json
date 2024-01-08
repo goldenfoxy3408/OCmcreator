@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "omegacraft:ring"
+  },
+  "addition": {
+    "item": "omegacraft:command_book"
+  },
+  "result": {
+    "item": "omegacraft:admin_ring"
+  }
+}

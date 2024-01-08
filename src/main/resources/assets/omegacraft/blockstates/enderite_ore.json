@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "omegacraft:block/enderite_ore",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "omegacraft:block/enderite_ore"
+    },
+    "axis=z": {
+      "model": "omegacraft:block/enderite_ore",
+      "x": 90
+    }
+  }
+}

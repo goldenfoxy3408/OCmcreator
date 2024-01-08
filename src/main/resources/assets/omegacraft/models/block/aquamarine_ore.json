@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "omegacraft:block/aquamarine_ore",
+    "up": "omegacraft:block/aquamarine_ore",
+    "north": "omegacraft:block/aquamarine_ore",
+    "east": "omegacraft:block/aquamarine_ore",
+    "south": "omegacraft:block/aquamarine_ore",
+    "west": "omegacraft:block/aquamarine_ore",
+    "particle": "omegacraft:block/aquamarine_ore"
+  },
+  "render_type": "solid"
+}

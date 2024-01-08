@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "omegacraft:aquamarine_armor_boots"
+  },
+  "addition": {
+    "item": "omegacraft:ruby"
+  },
+  "result": {
+    "item": "omegacraft:ruby_armor_boots"
+  }
+}

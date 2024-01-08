@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RGBStar"
+      },
+      {
+        "value": "CUSTOM:RGBGem"
+      },
+      {
+        "value": "CUSTOM:RGBGem"
+      },
+      {
+        "value": "CUSTOM:RGBGem"
+      },
+      {
+        "value": "CUSTOM:OofSword"
+      },
+      {
+        "value": "CUSTOM:RGBGem"
+      },
+      {
+        "value": "CUSTOM:RGBStick"
+      },
+      {
+        "value": "CUSTOM:RGBGem"
+      },
+      {
+        "value": "CUSTOM:RGBStar"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:IncompleteAdminStaff"
+    },
+    "name": "admin_staff_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "omegacraft:oof_armor_chestplate"
+  },
+  "addition": {
+    "item": "omegacraft:command_book"
+  },
+  "result": {
+    "item": "omegacraft:admin_armor_chestplate"
+  }
+}

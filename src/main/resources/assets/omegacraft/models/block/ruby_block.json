@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "omegacraft:block/ruby_ore_block",
+    "up": "omegacraft:block/ruby_ore_block",
+    "north": "omegacraft:block/ruby_ore_block",
+    "east": "omegacraft:block/ruby_ore_block",
+    "south": "omegacraft:block/ruby_ore_block",
+    "west": "omegacraft:block/ruby_ore_block",
+    "particle": "omegacraft:block/ruby_ore_block"
+  },
+  "render_type": "solid"
+}

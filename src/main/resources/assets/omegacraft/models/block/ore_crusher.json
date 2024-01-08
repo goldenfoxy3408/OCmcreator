@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "omegacraft:block/ore__crusher1",
+    "up": "omegacraft:block/ore__crusher1",
+    "north": "omegacraft:block/ore__crusher",
+    "east": "omegacraft:block/ore__crusher",
+    "south": "omegacraft:block/ore__crusher",
+    "west": "omegacraft:block/ore__crusher",
+    "particle": "omegacraft:block/ore__crusher"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "omegacraft:aquamarine_armor_helmet"
+  },
+  "addition": {
+    "item": "omegacraft:ruby"
+  },
+  "result": {
+    "item": "omegacraft:ruby_armor_helmet"
+  }
+}
